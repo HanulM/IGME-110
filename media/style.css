@@ -1,26 +1,45 @@
 html{
     font-size: 20px;
     font-family: 'Shadows Into Light Two', cursive;
-    background-color: #33cc33;
+    background-color: #b8b894;
+}
+
+body{
+    margin: 0 auto;
+    padding: 0px 20px 80px 20px;
 }
 
 h1{
     font-size: 50px;
     text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    background-color: #77773c;
 }
 
 h2{
     font-size: 40px;
     text-align: center;
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 10px 0;
+    background-color: #77773c;
 }
 
 h3{
-    width: 800px;
+    font-size: 20px;
     text-align: center;
-    margin-left: 325px;
     color: #003300;
 }
 
+a{
+    font-size: 30px;
+}
+
+p{
+    font-size: 30px;
+    color: #333300;
+}
 
 img{
     display: block;
